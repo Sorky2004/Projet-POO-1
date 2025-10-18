@@ -1,0 +1,15 @@
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.sourcelink.json
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\bin\Debug\net9.0\Pioche.exe
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\bin\Debug\net9.0\Pioche.deps.json
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\bin\Debug\net9.0\Pioche.runtimeconfig.json
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\bin\Debug\net9.0\Pioche.dll
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\bin\Debug\net9.0\Pioche.pdb
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.dll
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\refint\Pioche.dll
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.pdb
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\Pioche.genruntimeconfig.cache
+C:\Users\louis\OneDrive\Documents\GitHub\Projet-POO-1\Pioche\obj\Debug\net9.0\ref\Pioche.dll

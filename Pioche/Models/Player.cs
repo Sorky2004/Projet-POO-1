@@ -21,8 +21,8 @@ namespace Pioche
         // méthode d'affichage
         public override string ToString()
         {
-            return $"{ID} - {Firstname} {Surname}";
-        }
+            return $"Player {ID}: {Firstname} {Surname}";
+        }   
     
     }
 }
