@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pioche")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f23eec9fb3316d1d5b18901a3de1416fce5f375")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d00aa20ff2e1630189d5a8d5f4e06162b403da1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pioche")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pioche")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

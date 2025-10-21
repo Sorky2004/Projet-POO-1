@@ -2,9 +2,6 @@ using System;
 
 namespace Pioche.Models
 {
-    //générateur d'id unique
-
-
     public class Person
     {
         private static int NextId = 0;
